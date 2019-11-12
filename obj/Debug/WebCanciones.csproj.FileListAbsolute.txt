@@ -1,0 +1,116 @@
+E:\ProyectoDAI\WebCanciones\bin\WebCanciones.dll.config
+E:\ProyectoDAI\WebCanciones\bin\WebCanciones.dll
+E:\ProyectoDAI\WebCanciones\bin\WebCanciones.pdb
+E:\ProyectoDAI\WebCanciones\bin\roslyn\csc.exe
+E:\ProyectoDAI\WebCanciones\bin\roslyn\csc.exe.config
+E:\ProyectoDAI\WebCanciones\bin\roslyn\csc.rsp
+E:\ProyectoDAI\WebCanciones\bin\roslyn\csi.exe
+E:\ProyectoDAI\WebCanciones\bin\roslyn\csi.exe.config
+E:\ProyectoDAI\WebCanciones\bin\roslyn\csi.rsp
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ProyectoDAI\WebCanciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.AppContext.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Collections.Immutable.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Console.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.IO.Compression.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.IO.FileSystem.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.IO.Pipes.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.AccessControl.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.Claims.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.ValueTuple.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Xml.XPath.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ProyectoDAI\WebCanciones\bin\roslyn\vbc.exe
+E:\ProyectoDAI\WebCanciones\bin\roslyn\vbc.exe.config
+E:\ProyectoDAI\WebCanciones\bin\roslyn\vbc.rsp
+E:\ProyectoDAI\WebCanciones\bin\roslyn\VBCSCompiler.exe
+E:\ProyectoDAI\WebCanciones\bin\roslyn\VBCSCompiler.exe.config
+E:\ProyectoDAI\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProyectoDAI\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProyectoDAI\WebCanciones\obj\Debug\WebCanciones.csprojAssemblyReference.cache
+E:\ProyectoDAI\WebCanciones\obj\Debug\WebCanciones.csproj.CoreCompileInputs.cache
+E:\ProyectoDAI\WebCanciones\obj\Debug\WebCanciones.csproj.CopyComplete
+E:\ProyectoDAI\WebCanciones\obj\Debug\WebCanciones.dll
+E:\ProyectoDAI\WebCanciones\obj\Debug\WebCanciones.pdb
+E:\ProyectoDAI\WebCanciones\bin\GestorBD.dll
+E:\ProyectoDAI\WebCanciones\bin\GestorBD.pdb
+F:\ProyectoDAI - copia\WebCanciones\obj\Debug\WebCanciones.csprojAssemblyReference.cache
+F:\ProyectoDAI - copia\WebCanciones\obj\Debug\WebCanciones.csproj.CoreCompileInputs.cache
+F:\ProyectoDAI - copia\WebCanciones\obj\Debug\WebCanciones.dll
+F:\ProyectoDAI - copia\WebCanciones\obj\Debug\WebCanciones.pdb
+F:\ProyectoDAI - copia\WebCanciones\bin\WebCanciones.dll.config
+F:\ProyectoDAI - copia\WebCanciones\bin\WebCanciones.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\WebCanciones.pdb
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\csc.exe
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\csc.exe.config
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\csc.rsp
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\csi.exe
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\csi.exe.config
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\csi.rsp
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.AppContext.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Collections.Immutable.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Console.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.IO.Compression.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.IO.FileSystem.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.IO.Pipes.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.AccessControl.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.Claims.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.ValueTuple.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Xml.XPath.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\vbc.exe
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\vbc.exe.config
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\vbc.rsp
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\VBCSCompiler.exe
+F:\ProyectoDAI - copia\WebCanciones\bin\roslyn\VBCSCompiler.exe.config
+F:\ProyectoDAI - copia\WebCanciones\bin\GestorBD.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProyectoDAI - copia\WebCanciones\bin\GestorBD.pdb
+F:\ProyectoDAI - copia\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProyectoDAI - copia\WebCanciones\obj\Debug\WebCanciones.csproj.CopyComplete

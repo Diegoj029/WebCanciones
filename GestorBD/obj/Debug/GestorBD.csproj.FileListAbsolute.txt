@@ -1,0 +1,6 @@
+C:\DAI\Programas\GestorBD\bin\Debug\GestorBD.dll
+C:\DAI\Programas\GestorBD\bin\Debug\GestorBD.pdb
+C:\DAI\Programas\GestorBD\obj\Debug\GestorBD.csprojAssemblyReference.cache
+C:\DAI\Programas\GestorBD\obj\Debug\GestorBD.csproj.CoreCompileInputs.cache
+C:\DAI\Programas\GestorBD\obj\Debug\GestorBD.dll
+C:\DAI\Programas\GestorBD\obj\Debug\GestorBD.pdb

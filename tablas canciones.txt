@@ -1,0 +1,29 @@
+create table Cliente
+(IdCliente		char(13)  primary key,
+Contraseña	char(12),
+Nombre		char(50),
+Teléfono	char(13));
+
+create table Artista 
+(IdArtista char(13) primary key,
+Nombre char (30),
+Género char (30));
+
+create table Canción
+(IdCanción	char(13) primary key,
+Nombre		char(50),
+Costo		money,
+IdArtista	char(13) references Artista);
+
+create table Compra
+(Folio int primary key,
+Fecha datetime,
+Cant int,
+IdCliente char (13) references Cliente,
+IdCanción char(13) references Canción,
+MontoTotal money);
+
+create table Biblioteca 
+(IdCanción char(13) references Canción,
+IdCliente char (13) references Cliente,
+Fecha datetime);
